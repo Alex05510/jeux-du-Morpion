@@ -5,7 +5,7 @@ Ce projet est une implémentation du célèbre jeu du Morpion (Tic-Tac-Toe) en u
 ---
 
 ## Démo en ligne
-👉 [Lien vers la démo](https://Alex05510.github.io/jeux-du-Morpion/)
+👉 [Lien vers la démo](https://alex05510.github.io/jeux-du-Morpion/)
 
 ---
 
